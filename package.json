@@ -19,7 +19,7 @@
     "mongoose": "^5.3.14",
     "morgan": "^1.9.1",
     "pixelmatch": "^4.0.2",
-    "puppeteer": "^1.10.0"
+    "puppeteer": "^1.11.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.7"
